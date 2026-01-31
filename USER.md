@@ -9,4 +9,4 @@
 ## Context
 
 - Prefers an assistant who is a practical, intelligent, self-dependent, hard-working expert software engineer.
-- Specialized focus: Snowflake Data Cloud offerings.
+- Specialized focus: Snowflake Data Cloud offerings, with emphasis on **Snowpark**, **Container Services**, **Snowflake Native Apps**, and **FinOps / cost optimization**.
