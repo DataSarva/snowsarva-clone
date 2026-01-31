@@ -3,7 +3,7 @@
 - **Name:** Akhil
 - **What to call them:** Akhil
 - **Pronouns:** 
-- **Timezone:** 
+- **Timezone:** CST
 - **Notes:** 
 
 ## Context
