@@ -47,3 +47,6 @@ Use the matching template at:
 ## Bundled resources
 ### scripts/
 - `new_research_note.py` scaffolds new research notes from templates with timestamped paths.
+- `parallel_search.py` uses Parallel Search Extract API to discover sources + excerpts.
+- `parallel_extract.py` uses Parallel Extract API to pull excerpts for specific URLs.
+- `parallel_chat.py` uses Parallel Chat Completions for synthesis; **note**: prefer non-fast synthesis, but if Parallel's non-fast model is unstable, fall back to in-house LLM synthesis while keeping citations from search/extract.
