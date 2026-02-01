@@ -26,14 +26,14 @@ import sys
 import textwrap
 import urllib.request
 
-DEFAULT_URL = "https://search-mcp.parallel.ai/v1beta/chat/completions"
+DEFAULT_URL = "https://api.parallel.ai/chat/completions"
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("query", help="user query")
     ap.add_argument("--system", default="", help="optional system message")
-    ap.add_argument("--model", default="basic", help="model name (per Parallel docs)")
+    ap.add_argument("--model", default="research", help="model name (recommend: research; avoid speed for synthesis)")
     ap.add_argument("--url", default=DEFAULT_URL, help="override endpoint")
     ap.add_argument("--max-chars", type=int, default=12000, help="truncate output for terminals")
     args = ap.parse_args()
@@ -52,7 +52,6 @@ def main() -> None:
         "model": args.model,
         "stream": False,
         "messages": messages,
-        "response_format": {"type": "text"},
     }
 
     data = json.dumps(payload).encode("utf-8")
@@ -61,7 +60,7 @@ def main() -> None:
         data=data,
         headers={
             "content-type": "application/json",
-            "x-api-key": api_key,
+            "authorization": f"Bearer {api_key}",
         },
         method="POST",
     )
