@@ -21,3 +21,4 @@ We will implement telemetry as a **two-mode** system:
 - We must ship an in-app "Telemetry Health" check with remediation guidance.
 - We must include a telemetry level/sampling config to control cost.
 - We prioritize an explainable, low-volume signal layer (15m/1h windows) over raw event retention.
+- **Bind values policy (MVP):** we do **not** ingest `bind_values` by default. If we support bind values at all, it is **explicit opt-in** with clear UI copy + redaction/hashing-first handling, because it is privacy-sensitive and gated by `ALLOW_BIND_VALUES_ACCESS`.
