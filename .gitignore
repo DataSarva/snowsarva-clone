@@ -1,0 +1,12 @@
+# Local scratch outputs
+/tmp_*.json
+
+# Parallel scratch
+/tmp_parallel_*.json
+/tmp_parallel_search*.json
+/tmp_parallel_extract*.json
+/tmp_extract*.json
+/tmp_search_payload*.json
+
+# OS
+.DS_Store
