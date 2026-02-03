@@ -1,0 +1,1 @@
+{"type":"error","error":{"ref_id":"df1fd2e0-2d7b-4630-91e8-f000d6a330df","message":"Request validation error.","detail":{"errors":[{"type":"missing","loc":["body","urls"],"msg":"Field required","input":{"url":"https://docs.snowflake.com/en/user-guide/cost-attributing"}}]}}}
