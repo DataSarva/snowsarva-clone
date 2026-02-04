@@ -1,19 +1,60 @@
-# Native Apps Research Note — <TITLE>
+# Research: Native Apps - {{DATE}}
 
-- **When (UTC):** <YYYY-MM-DD HH:MM>
-- **Scope:** Native App Framework
+**Time:** {{TIME}} UTC  
+**Topic:** Snowflake Native App Framework  
+**Researcher:** Snow (AI Assistant)
 
-## Accurate takeaways
-- 
+---
 
-## Packaging / permissions implications
-- 
+## Accurate Takeaways
 
-## MVP features unlocked (PR-sized)
-1) 
+*Plain statements validated from sources. No marketing language.*
 
-## Risks / assumptions
-- 
+1. 
+2. 
+3. 
 
-## Links / references
+## Snowflake Objects & Data Sources
+
+| Object/View | Type | Source | Notes |
+|-------------|------|--------|-------|
+| | | | |
+
+**Legend:**
+- `ACCOUNT_USAGE` = Account-level metadata
+- `ORG_USAGE` = Organization-level
+- `INFO_SCHEMA` = Database-level
+
+## MVP Features Unlocked
+
+*PR-sized ideas that can be shipped based on these findings.*
+
+1. 
+2. 
+3. 
+
+## Concrete Artifacts
+
+*SQL drafts, ADRs, schemas, pseudocode, etc.*
+
+### [Artifact Name]
+
+```sql
+-- Example SQL draft
+```
+
+## Risks / Assumptions
+
+| Risk/Assumption | Impact | Validation |
+|-----------------|--------|------------|
+| | | |
+
+## Links & Citations
+
+1. 
+2. 
+3. 
+
+## Next Steps / Follow-ups
+
 - 

@@ -1,6 +1,6 @@
-# Research: FinOps - {{DATE}}
+# Research: FinOps - 2026-02-04
 
-**Time:** {{TIME}} UTC  
+**Time:** 0828 UTC  
 **Topic:** Snowflake FinOps Cost Optimization  
 **Researcher:** Snow (AI Assistant)
 
