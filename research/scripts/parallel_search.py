@@ -23,7 +23,7 @@ def search(query, num_results=5):
     }
     
     data = {
-        "query": query,
+        "objective": query,
         "num_results": num_results
     }
     
