@@ -1,0 +1,8 @@
+{
+  "urls": [
+    "https://www.snowflake.com/en/developers/guides/well-architected-framework-cost-optimization-and-finops/",
+    "https://www.snowflake.com/en/developers/guides/resource-optimization-usage-monitoring/",
+    "https://docs.snowflake.com/en/sql-reference/account-usage"
+  ],
+  "purpose": "Extract detailed content for building a Snowflake FinOps Native App - focus on cost optimization patterns, ACCOUNT_USAGE views, and credit monitoring queries"
+}
