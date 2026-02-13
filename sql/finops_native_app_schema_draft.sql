@@ -161,4 +161,10 @@ CREATE TABLE IF NOT EXISTS FACT_RECOMMENDATION_STATE (
   CONSTRAINT uq_reco_state UNIQUE (recommendation_id, as_of, target_type, target_name)
 );
 
+
+-- ----------------------------------------------------------------------------
+-- 5) Provider governance audit (listing/share drift)
+-- ----------------------------------------------------------------------------
+-- See: sql/gov_audit_listing_share_audit.sql for a v0 implementation skeleton.
+
 -- End draft
