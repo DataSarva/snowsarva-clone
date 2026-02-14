@@ -1,0 +1,4 @@
+usage: parallel_extract.py [-h] --url URLS --objective OBJECTIVE [--excerpts]
+                           [--full-content] [--endpoint ENDPOINT]
+                           [--truncate TRUNCATE]
+parallel_extract.py: error: unrecognized arguments: --max-chars 8000

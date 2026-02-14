@@ -1,0 +1,4 @@
+usage: parallel_search.py [-h] --objective OBJECTIVE --query QUERIES
+                          [--max-results MAX_RESULTS] [--max-chars MAX_CHARS]
+                          [--url URL] [--truncate TRUNCATE]
+parallel_search.py: error: unrecognized arguments: --output research/search_policy_gov_1771102539.json
