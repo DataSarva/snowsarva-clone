@@ -1,5 +1,7 @@
 [
-  "https://docs.snowflake.com/en/user-guide/warehouses-multicluster",
-  "https://www.unraveldata.com/resources/snowflake-multi-cluster-warehouse-done-right/",
-  "https://medium.com/@HarshaVishwanath/snowflake-scaling-policy-a-visualization-d1ee9ccdd357"
+  "https://docs.snowflake.com/en/user-guide/cost-anomalies",
+  "https://docs.snowflake.com/en/user-guide/ml-functions/anomaly-detection",
+  "https://docs.snowflake.com/en/user-guide/cost-anomalies-class",
+  "https://www.snowflake.com/en/developers/guides/well-architected-framework-cost-optimization-and-finops/",
+  "https://www.snowflake.com/en/engineering-blog/anomaly-insights-spending-patterns/"
 ]
