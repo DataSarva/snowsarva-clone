@@ -1,0 +1,1 @@
+{"type":"error","error":{"ref_id":"cb88507c-43d6-41a9-8f4d-52199b4cf276","message":"Request validation error.","detail":{"errors":[{"type":"missing","loc":["body","urls"],"msg":"Field required","input":{"url":"https://docs.snowflake.com/en/developer-guide/native-apps/ui-consumer-security"}}]}}}
