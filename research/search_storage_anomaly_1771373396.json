@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/.openclaw/workspace/research/scripts/parallel_search.py", line 53, in <module>
+    num_results = int(sys.argv[2]) if len(sys.argv) > 2 else 5
+                  ^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Find Snowflake FinOps best practices for storage cost optimization and automated anomaly detection in 2025'
