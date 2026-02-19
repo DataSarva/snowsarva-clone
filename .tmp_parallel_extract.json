@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "https://docs.snowflake.com/en/user-guide/warehouses-overview",
+    "https://docs.snowflake.com/en/user-guide/warehouses-tuning",
+    "https://docs.snowflake.com/en/user-guide/cost-performance-optimizing-warehouses"
+  ],
+  "prompt": "Extract key information about warehouse sizing, T-shirt sizes, resource allocation, memory per size, cost-performance tradeoffs, and when to use each size",
+  "max_tokens": 4000
+}
