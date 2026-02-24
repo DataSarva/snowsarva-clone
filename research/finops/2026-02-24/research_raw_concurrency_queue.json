@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-24T20:01:51.347515",
+  "session": "warehouse-concurrency-queueing-research",
+  "searches": [
+    {
+      "topic": "concurrency-queuing",
+      "query": "Snowflake warehouse concurrency query queuing behavior queue depth",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "mcc-queue-scaling",
+      "query": "Snowflake multi-cluster warehouse queue scaling policy max_concurrency_level",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "queue-time-metrics",
+      "query": "Snowflake warehouse STATEMENT_QUEUE_TIME statistics query wait time",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "warehouse-load",
+      "query": "Snowflake warehouse WAREHOUSE_LOAD_HISTORY QUEUED_OVER_TIME queued queries",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "timeout-governance",
+      "query": "Snowflake warehouse statement timeout queue timeout concurrency scaling",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "qas-concurrency",
+      "query": "Snowflake QUERY_ACCELERATION concurrency queue behavior",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    }
+  ],
+  "extracts": []
+}
