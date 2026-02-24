@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-24T10:14:38.714488",
+  "session": "warehouse-auto-suspend-research",
+  "searches": [
+    {
+      "topic": "auto-suspend-basics",
+      "query": "Snowflake warehouse auto-suspend minimum idle time TIMEOUT billing credits",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "suspend-behavior",
+      "query": "Snowflake warehouse suspend behavior cluster shutdown credit consumption idle",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "resume-behavior",
+      "query": "Snowflake warehouse resume behavior cold start latency cluster startup",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "metering-view",
+      "query": "Snowflake warehouse WAREHOUSE_METERING_HISTORY identify idle vs active time",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "resource-monitors",
+      "query": "Snowflake warehouse resource monitor auto-suspend suspend immediate vs at end",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "credit-tracking",
+      "query": "Snowflake warehouse DATA_TRANSFER_HISTORY vs WAREHOUSE_METERING_HISTORY credits",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    }
+  ],
+  "extracts": []
+}
