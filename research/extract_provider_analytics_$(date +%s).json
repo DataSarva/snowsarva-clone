@@ -1,0 +1,21 @@
+{
+  "search_id": "search_8da557f2043b49239c1465184307df38",
+  "extracted_at": "2025-02-25T18:40:00Z",
+  "sources": [
+    {
+      "url": "https://docs.snowflake.com/en/developer-guide/native-apps/monitoring",
+      "excerpts": [
+        "To report health status, your app uses the system-defined SYSTEM$REPORT_HEALTH_STATUS(VARCHAR) function, passing in the health status as an enum value: OK: The consumer instance is healthy. FAILED: The consumer instance is in an error state. PAUSED: The consumer manually paused the app.",
+        "You can use the LAST_HEALTH_STATUS and LAST_HEALTH_STATUS_UPDATED_ON fields of the APPLICATION_STATE view to monitor the health of consumer instances of your app."
+      ]
+    },
+    {
+      "url": "https://docs.snowflake.com/en/collaboration/provider-listings-monitor-studio", 
+      "excerpts": [
+        "Snowflake tracks many metrics for listings, including: Daily telemetry usage for your listing, Events when consumers get or request your listing, Events when consumers view or click your listing detail page, Use of your listing, Access details for your listing, The company name and account name of consumers accessing your listing",
+        "For paid listings, you can see: Earnings history for your listings, Charges accumulated by type of charge, Number of queries included in the charge to a consumer, Number of consumers trialing your listing",
+        "The detailed metrics on the Analytics tab are obtained by querying the views in the Data Sharing Usage schema. The DATA_SHARING_USAGE schema is not updated immediately. There can be up to two days of latency."
+      ]
+    }
+  ]
+}
