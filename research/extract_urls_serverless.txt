@@ -1,0 +1,4 @@
+https://docs.snowflake.com/en/user-guide/tasks-intro
+https://docs.snowflake.com/en/user-guide/cost-understanding-compute
+https://docs.snowflake.com/en/user-guide/tasks-graphs
+https://docs.snowflake.com/en/sql-reference/sql/create-task
