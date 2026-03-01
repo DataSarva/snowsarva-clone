@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/.openclaw/workspace/research/scripts/parallel_search.py", line 53, in <module>
+    num_results = int(sys.argv[2]) if len(sys.argv) > 2 else 5
+                  ^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Find Snowflake Native App multi-tenant architecture patterns, consumer-provider data sharing security, and tenant isolation best practices for FinOps applications'
