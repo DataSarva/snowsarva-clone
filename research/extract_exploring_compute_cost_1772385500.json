@@ -1,0 +1,28 @@
+{
+  "extract_id": "extract_814d189ad0f34ed5948045527da0595d",
+  "results": [
+    {
+      "url": "https://docs.snowflake.com/en/user-guide/exploring-compute-cost",
+      "title": "404 File Not Found - Snowflake Documentation",
+      "publish_date": null,
+      "excerpts": [
+        "# We couldn't find that\n\nLooks like the document you were looking for couldn't be found"
+      ],
+      "full_content": null
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    {
+      "type": "warning",
+      "message": "Neither objective nor search_queries were provided, provide at least one to increase the relevance of excerpts.",
+      "detail": null
+    }
+  ],
+  "usage": [
+    {
+      "name": "sku_extract_excerpts",
+      "count": 1
+    }
+  ]
+}
