@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-03-02T08:08:42.647698",
+  "session": "warehouse-sizing-research",
+  "searches": [
+    {
+      "topic": "warehouse-size-credits",
+      "query": "Snowflake warehouse sizing XS XSmall Small Medium Large Xlarge 2X 3X 4X 5X 6X credits per hour",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "right-sizing-strategy",
+      "query": "Snowflake warehouse size vs query performance right-sizing best practices optimization",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "suspend-timeout-sizing",
+      "query": "Snowflake warehouse SUSPEND_TIMEOUT AUTO_SUSPEND sizing recommendation cost optimization",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "elastic-scaling",
+      "query": "Snowflake warehouse elastic scaling resize operations dynamic sizing credit cost",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "metering-analysis",
+      "query": "Snowflake WAREHOUSE_METERING_HISTORY query credits consumed warehouse size analysis",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "cost-per-query",
+      "query": "Snowflake warehouse size query acceleration caching cost per query benchmark",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    }
+  ],
+  "extracts": []
+}
