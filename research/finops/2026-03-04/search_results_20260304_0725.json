@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-03-04T07:25:43.455984",
+  "session": "finops-deep-research-2026-03-04",
+  "searches": [
+    {
+      "topic": "cost-optimization",
+      "query": "Snowflake cost optimization auto-suspend warehouse sizing serverless credits optimization 2026",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "native-app-framework",
+      "query": "Snowflake Native App Framework best practices application bundle manifest setup provider consumer 2026",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "scs-finops",
+      "query": "Snowpark Container Services SCS FinOps workloads cost monitoring job scheduling",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "org-vs-account-usage",
+      "query": "Snowflake ORG_USAGE vs ACCOUNT_USAGE billing data warehouse access cost analysis views",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "mv-cost-metrics",
+      "query": "Snowflake materialized view cost metrics aggregation WAREHOUSE_METERING_HISTORY optimization",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "snowpark-cost-monitoring",
+      "query": "Snowflake Snowpark Python stored procedures cost monitoring table functions",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    },
+    {
+      "topic": "billing-api",
+      "query": "Snowflake REST API billing usage warehouses accounts organizations",
+      "error": "422 Client Error: unknown for url: https://api.parallel.ai/v1beta/search"
+    }
+  ],
+  "extracts": []
+}
